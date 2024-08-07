@@ -1,5 +1,1 @@
-python
-python:3.10-alpine
-mysql
-nginx
-alpine
+redis
