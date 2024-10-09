@@ -1,1 +1,1 @@
-ollama:latest
+ultralytics/ultralytics:latest
