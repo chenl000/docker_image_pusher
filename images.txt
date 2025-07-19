@@ -1,1 +1,1 @@
-tiangolo/nginx-rtmp
+ubuntu:22.04
