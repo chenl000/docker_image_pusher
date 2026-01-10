@@ -1,1 +1,1 @@
-pull ghcr.io/automatic1111/stable-diffusion-webui:v1.7.0
+ghcr.io/automatic1111/stable-diffusion-webui:v1.7.0
