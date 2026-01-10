@@ -1,1 +1,1 @@
-automatic1111/stable-diffusion-webui:latest
+ghcr.io/automatic1111/stable-diffusion-webui:latest
