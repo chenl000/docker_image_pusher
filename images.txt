@@ -1,1 +1,1 @@
-ghcr.io/automatic1111/stable-diffusion-webui:v1.7.0
+us-docker.pkg.dev/sd-webui-386709/public/stable-diffusion-webui:latest
