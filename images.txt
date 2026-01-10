@@ -1,1 +1,1 @@
-us-docker.pkg.dev/sd-webui-386709/public/stable-diffusion-webui:latest
+lstein/stable-diffusion-webui:latest
