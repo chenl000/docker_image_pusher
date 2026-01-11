@@ -1,1 +1,1 @@
-ollama/ollama:latest
+yuanmengshi/stable-diffusion-webui:latest
