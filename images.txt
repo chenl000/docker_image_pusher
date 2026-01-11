@@ -1,1 +1,1 @@
-lstein/stable-diffusion-webui:latest
+ollama:latest
