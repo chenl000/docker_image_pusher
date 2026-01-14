@@ -1,1 +1,1 @@
-yuanmengshi/stable-diffusion-webui:latest
+mysql:8.0.18
