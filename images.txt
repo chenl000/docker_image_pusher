@@ -1,1 +1,1 @@
-ghcr.io/openclaw/openclaw:latest
+ghcr.io/vllm-project/vllm:latest-cuda11.8
