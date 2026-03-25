@@ -1,1 +1,1 @@
-ghcr.io/vllm-project/vllm:latest-cuda11.8
+vllm/vllm-openai:v0.4.2
