@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.4.2
+selenium/standalone-chrome
